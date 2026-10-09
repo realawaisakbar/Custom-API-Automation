@@ -1,0 +1,2 @@
+requests>=2.31
+truststore>=0.9   # optional: lets TLS verification use the OS trust store on networks with SSL inspection (corporate proxies). Harmless elsewhere; the script runs fine without it.
