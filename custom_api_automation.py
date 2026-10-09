@@ -24,8 +24,8 @@ What makes this a nice example:
 Dependencies:  pip install requests
 
 Usage:
-    python ginandjuice_scraper.py            # pretty table of past orders
-    python ginandjuice_scraper.py --json     # machine-readable output
+    python custom_api_automation.py            # pretty table of past orders
+    python custom_api_automation.py --json     # machine-readable output
 """
 
 import re
